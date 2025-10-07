@@ -1,1 +1,2 @@
 Nazwa: {Nazwa testowa}
+Instytucja: {ABC}
